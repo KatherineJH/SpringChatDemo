@@ -1,4 +1,4 @@
-# DB 테스트
+# API & DB 테스트
 - DB name은 db_chat, 바꾸셔도 괜찮습니다.
 - POST localhost:8282/api/auth/register 으로 유저 두명 이상 만들어주세요.
   - 요청 Body  {
