@@ -22,3 +22,7 @@
 - 크롬 incognito(시크릿)모드로 윈도우 창을 두개 띄우고 각자 다른 아이디로 로그인을 해주세요.
 - Authorization 네임을 가진 쿠키에서 토큰 확인 가능합니다. 로깅 확인도 가능합니다.
 - 각 유저가 입장하고, 나갈 때 각각 다른 메시지 확인 가능합니다.
+
+![image](https://github.com/user-attachments/assets/d9554f73-25f1-4614-89a4-19bf25eec48a)
+
+![image](https://github.com/user-attachments/assets/e7f06a57-d852-42eb-816b-1a73b07e2c6b)
